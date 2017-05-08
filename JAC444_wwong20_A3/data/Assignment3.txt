@@ -1,0 +1,13 @@
+# Project instruction set of data
+Insert 12345, 'Widgets', 'Box of 10', 100, 10, 20, 50, 150, 242# Project provided data
+Select 98765# Project provided data
+Select 12345# Project provided data
+# My set of data
+insert 5478, 'Mint Candies', 'Bag of 200', 230, 7.95, 200, 100, 300, 165
+select 5478
+insert 7458, 'Titanium', 'Sheets of 2000', 350, 1400.99, 150, 150, 400, 375
+disconnect
+connect
+select 54321
+select 12345
+disconnect

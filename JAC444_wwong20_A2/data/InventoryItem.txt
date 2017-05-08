@@ -1,0 +1,97 @@
+# First set of data
+12345
+Thingies
+Box of 100
+169#Quanity in stock
+50.00#Unit price
+150#Reorder Point
+100#Reorder Quanity
+200#Total ordered
+145#Total sales order
+# Second set of data
+23456
+Thingies
+Carton of 1000
+10
+450.00
+75
+25
+20
+3
+# Third set of data
+34567
+Widgets
+Packet of 500
+9
+9.99
+9
+5
+5
+1
+
+# Forth set of data, above line is empty to force break out of the while loop
+5478
+Mint Candies
+Bag of 200
+230#Quanity in stock
+7.95#Unit price
+200#Reorder Point
+100#Reorder Quanity
+300#Total ordered
+165#Total sales order
+40#increaseStock method
+# Fifth set of data
+64578
+Chocolate Bars
+Pack of 300
+400#Quanity in stock
+2.95#Unit price
+150#Reorder Point
+300#Reorder Quanity
+300#Total ordered
+155#Total sales order
+150#decreaseStock method
+# Sixth set of data
+1908
+Potato Chips
+Bag of 12
+115#Quanity in stock
+5.95#Unit price
+425#Reorder Point
+300#Reorder Quanity
+100#Total ordered
+43#Total sales order
+54#decreasestock method with place replenishment order
+# Seventh set of data
+423
+Lollipops
+Packets of 50
+1432#Quanity in stock
+1.29#Unit price
+210#Reorder Point
+600#Reorder Quanity
+400#Total ordered
+2100#Total sales order
+99#placeSalesOrder method
+# Eighth set of data
+7458
+Titanium
+Sheets of 2000
+350#Quanity in stock
+1400.99#Unit price
+150#Reorder Point
+150#Reorder Quanity
+400#Total ordered
+375#Total sales order
+103#receiveReplenishment method
+# Nineth set of data
+47890
+Milk
+Carton of 500
+425#Quanity in stock
+4.99#Unit price
+100#Reorder Point
+200#Reorder Quanity
+300#Total ordered
+700#Total sales order
+400#shipSalesOrder method

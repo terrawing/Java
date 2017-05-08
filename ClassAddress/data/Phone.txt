@@ -1,0 +1,19 @@
+# Phone.txt - Test data/script for class Phone
+#
+# object 1
+#
+###################Action1# update a new object
+#
+123#area
+Main St.#exchange
+21#local
+Mississauga#extension
+#
+###################Action1# update a new object
+#
+555#area
+Union St.#exchange
+421#local
+Niagara Falls#extension
+#
+###################Action0# exit

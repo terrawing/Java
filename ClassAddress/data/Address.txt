@@ -1,0 +1,25 @@
+# Address.txt - Test data/script for class Address
+#
+# object 1
+#
+###################Action1# update a new object
+#
+123#number
+Main St.#street
+21#suite
+Mississauga#city
+ON#province
+L5L K9P#postcode
+CAN#country
+#
+###################Action1# update a new object
+#
+555#number
+Union St.#street
+421#suite
+Niagara Falls#city
+NY#province
+54567#postcode
+USA#country
+#
+###################Action0# exit
